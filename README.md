@@ -12,9 +12,3 @@ An interactive machine learning web application that recommends movies based on 
 - **Libraries:** Streamlit, Pandas, Requests, Scikit-learn, Pickle
 - **API:** OMDb API
 
-## 📦 Local Setup & Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/movies-recommender-system.git](https://github.com/YOUR_GITHUB_USERNAME/movies-recommender-system.git)
-   cd movies-recommender-system
